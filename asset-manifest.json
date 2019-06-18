@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sosa/static/css/main.118f00af.chunk.css",
+    "main.js": "/sosa/static/js/main.00b6b95b.chunk.js",
+    "main.js.map": "/sosa/static/js/main.00b6b95b.chunk.js.map",
+    "runtime~main.js": "/sosa/static/js/runtime~main.2aaa5a5e.js",
+    "runtime~main.js.map": "/sosa/static/js/runtime~main.2aaa5a5e.js.map",
+    "static/css/2.2e0f3f0b.chunk.css": "/sosa/static/css/2.2e0f3f0b.chunk.css",
+    "static/js/2.e2560621.chunk.js": "/sosa/static/js/2.e2560621.chunk.js",
+    "static/js/2.e2560621.chunk.js.map": "/sosa/static/js/2.e2560621.chunk.js.map",
+    "index.html": "/sosa/index.html",
+    "precache-manifest.b1df627920cf8afe19fd901e763d731a.js": "/sosa/precache-manifest.b1df627920cf8afe19fd901e763d731a.js",
+    "service-worker.js": "/sosa/service-worker.js",
+    "static/css/2.2e0f3f0b.chunk.css.map": "/sosa/static/css/2.2e0f3f0b.chunk.css.map",
+    "static/css/main.118f00af.chunk.css.map": "/sosa/static/css/main.118f00af.chunk.css.map",
+    "static/media/slide1.jpg": "/sosa/static/media/slide1.21159dac.jpg",
+    "static/media/slide2.jpg": "/sosa/static/media/slide2.6a6f1c35.jpg",
+    "static/media/slide3.jpg": "/sosa/static/media/slide3.bd3190b5.jpg",
+    "static/media/slide4.jpg": "/sosa/static/media/slide4.fed61ff7.jpg",
+    "static/media/slide5.jpg": "/sosa/static/media/slide5.f19d81dc.jpg",
+    "static/media/slide6.jpg": "/sosa/static/media/slide6.8ab30cef.jpg",
+    "static/media/sneha_logo.jpg": "/sosa/static/media/sneha_logo.701b936a.jpg",
+    "static/media/sosa_logo.jpg": "/sosa/static/media/sosa_logo.8d8e3a56.jpg"
+  }
+}
