@@ -12,7 +12,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
   				<p><b>Office :</b></p>
 
-  				<p>The Registered office of the Association shall be situated at the Administrative Block/office, Sneha  school campus, panchanahalli-577182</p>
+  				<p>The Registered office of the Association shall be situated at the Administrative Block/office, Sneha  school campus, Panchanahalli-577182</p>
 
   			</div>
   			<div className="col-sm-4" style={{ height:'300px', width:'300px',padding:'30px',backgroundColor:'#808000',}}>
